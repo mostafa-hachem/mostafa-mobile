@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "353053111432",
+    "firebase_url": "https://mostafa-student-default-rtdb.firebaseio.com",
+    "project_id": "mostafa-student",
+    "storage_bucket": "mostafa-student.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353053111432:android:1abb1ef65f9f909cdfdb3d",
+        "android_client_info": {
+          "package_name": "com.bob.mostafahachem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWNiMu_NKmGLGH27fdF9NJ5qVS25l9t5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
